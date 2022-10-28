@@ -1,1 +1,1 @@
-bit man
+bit manipulation
